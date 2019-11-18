@@ -11,6 +11,7 @@ del c:\cftest\*.xls /Q
 
 ipconfig > c:\cftest\network.txt
 cd c:\cftest
-call cf.exe
-del c:\cftest\network.txt /Q
+start cf.exe
+REM del c:\cftest\network.txt /Q
 echo on
+exit

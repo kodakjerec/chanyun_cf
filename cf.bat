@@ -13,3 +13,4 @@ ipconfig > c:\cf\network.txt
 call cf.exe
 del c:\cf\network.txt /Q
 echo on
+exit
