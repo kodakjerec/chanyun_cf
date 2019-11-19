@@ -1,0 +1,1 @@
+"C:\Program Files\Winton\EInvoiceTool\WintonEInvoiceTool.exe" EInvPrint=Y
